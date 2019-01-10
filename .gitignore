@@ -1,0 +1,5 @@
+# Non prise en compte des fichiers/dossiers generees par Eclipse et/ou Maven
+.settings/
+.classpath
+.project
+target/
